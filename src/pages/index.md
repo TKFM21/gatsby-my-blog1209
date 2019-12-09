@@ -1,28 +1,28 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Wow　Wos
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
+heading: Great coffee with a conscience！！！！！
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
-  title: Why Kaldi
+  title: ようこそ！！！！！！！！！！！
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
+    Kaldi is the coffee store for everyone who believes that great コーヒー
     shouldn't just taste good, it should do good too. We source all of our beans
     directly from small scale sustainable farmers and make sure part of the
     profits are reinvested in their communities.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
+  Kaldi is the ultimate spot for コーヒー lovers who want to learn about their
+  java’s origin and support the farmers that grew it. We take コーヒー production,
   roasting and brewing seriously and we’re glad to pass that knowledge to
   anyone.
 intro:
   blurbs:
     - image: /img/coffee.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
+        We sell green and roasted コーヒー beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
+        variety of コーヒー beans grown with great care for the environment and
         local communities. Check our post or contact us directly for current
         availability.
     - image: /img/coffee-gear.png
